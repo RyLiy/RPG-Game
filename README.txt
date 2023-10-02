@@ -1,5 +1,4 @@
-RPG (Game) By: Kevin Gjoni, David Hanna and Ryan Liyanage
-
+RPG (Game) created in 2019, for High school.
 --------------------------------------
 To evaluate, open and run "Game.java".
 --------------------------------------

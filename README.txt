@@ -19,8 +19,6 @@ Expectations:
 -------------
 Arrays: Everywhere
 
-Sorting: Bubble sort - see BubbleSortGameover.java
-
 Search Function: Linear searches are used to read movelist.txt, enemyinfo.txt.
 
 2-D Arrays: Used for the cooldown mechanic, and character data.
